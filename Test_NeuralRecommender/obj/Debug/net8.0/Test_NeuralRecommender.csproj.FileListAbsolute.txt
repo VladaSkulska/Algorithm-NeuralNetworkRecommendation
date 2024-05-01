@@ -1,0 +1,14 @@
+F:\TestTasks\Test_NeuralRecommender\bin\Debug\net8.0\Test_NeuralRecommender.exe
+F:\TestTasks\Test_NeuralRecommender\bin\Debug\net8.0\Test_NeuralRecommender.deps.json
+F:\TestTasks\Test_NeuralRecommender\bin\Debug\net8.0\Test_NeuralRecommender.runtimeconfig.json
+F:\TestTasks\Test_NeuralRecommender\bin\Debug\net8.0\Test_NeuralRecommender.dll
+F:\TestTasks\Test_NeuralRecommender\bin\Debug\net8.0\Test_NeuralRecommender.pdb
+F:\TestTasks\Test_NeuralRecommender\obj\Debug\net8.0\Test_NeuralRecommender.GeneratedMSBuildEditorConfig.editorconfig
+F:\TestTasks\Test_NeuralRecommender\obj\Debug\net8.0\Test_NeuralRecommender.AssemblyInfoInputs.cache
+F:\TestTasks\Test_NeuralRecommender\obj\Debug\net8.0\Test_NeuralRecommender.AssemblyInfo.cs
+F:\TestTasks\Test_NeuralRecommender\obj\Debug\net8.0\Test_NeuralRecommender.csproj.CoreCompileInputs.cache
+F:\TestTasks\Test_NeuralRecommender\obj\Debug\net8.0\Test_NeuralRecommender.dll
+F:\TestTasks\Test_NeuralRecommender\obj\Debug\net8.0\refint\Test_NeuralRecommender.dll
+F:\TestTasks\Test_NeuralRecommender\obj\Debug\net8.0\Test_NeuralRecommender.pdb
+F:\TestTasks\Test_NeuralRecommender\obj\Debug\net8.0\Test_NeuralRecommender.genruntimeconfig.cache
+F:\TestTasks\Test_NeuralRecommender\obj\Debug\net8.0\ref\Test_NeuralRecommender.dll
