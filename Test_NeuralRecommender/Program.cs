@@ -103,6 +103,37 @@ public class Al2
     }
 }
 
+public class Al3
+{
+    public static int Recommend(int[][] nodes)
+    {
+        if (nodes == null || nodes.Length == 0)
+        {
+            return 0;
+        }
+
+        int layers = nodes.Length;
+        int[,] maxSum = new int[layers, layers];
+
+        for (int i = 0; i < layers; i++)
+        {
+            maxSum[layers - 1, i] = nodes[layers - 1][i];
+        }
+
+        for (int layer = layers - 2; layer >= 0; layer--)
+        {
+            for (int index = 0; index < nodes[layer].Length; index++)
+            {
+                maxSum[layer, index] = nodes[layer][index] +
+                                   Math.Max(maxSum[layer + 1, index],
+                                            index + 1 < nodes[layer + 1].Length ? maxSum[layer + 1, index + 1] : 0);
+            }
+        }
+
+        return maxSum[0, 0];
+    }
+}
+
 public class TestData
 {
     public void Test_1()
