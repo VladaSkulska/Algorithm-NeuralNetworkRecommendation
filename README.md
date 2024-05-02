@@ -1,5 +1,5 @@
 # Algorithm-NeuralNetworkRecommendation
-Implementation | Stack and Recursion usage versions
+Implementation | Stack, Recursion and Array usage versions
 
 Завдання
 Потрібно написати функцію для нейроної мережі, яка видасть найкращу рекомендацію.
